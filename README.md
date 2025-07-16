@@ -63,8 +63,12 @@ The **primary goal** of the project is to create the **Mindfulness Companion App
 ### **Ultimate Purpose:**  
 To **reduce stress, enhance mindfulness, and promote mental well-being** through scientifically supported breathing exercises—all in a simple, user-friendly app.  
 
+##
+## *Architecture Diagram*:
+
+
 ## 
-### **Implementation of Checklist for Mindfulness Companion App**  
+## **Implementation of Checklist for Mindfulness Companion App**  
 
 #### **Technical Requirements**  
 **Backend Development**  
