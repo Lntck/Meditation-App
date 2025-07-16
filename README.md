@@ -33,11 +33,11 @@ Users can end a session at any time.
 
 ##
 ## Roles Distribution: 
-Rushan Shafeev - Frontend Developer + Deploy. (r.shafeev@innopolis.university)
-Evgenii Khovalyg - Frontend Developer + Deploy. (e.khovalyg@innopolis.university)
-Rudov Artem - Assignment Report + Documentation. (a.rudov@innopolis.university)
-Ilya Mukhin - Assignment Report + Documentation. (i.muhin@innopolis.university)
-Kamil Khusnutdinov - Presentation + Other routine stuff. (k.khusnutdinov@innopolis.university)
+- Rushan Shafeev - Frontend Developer + Deploy. (r.shafeev@innopolis.university)
+- Evgenii Khovalyg - Frontend Developer + Deploy. (e.khovalyg@innopolis.university)
+- Rudov Artem - Assignment Report + Documentation. (a.rudov@innopolis.university)
+- Ilya Mukhin - Assignment Report + Documentation. (i.muhin@innopolis.university)
+- Kamil Khusnutdinov - Presentation + Other routine stuff. (k.khusnutdinov@innopolis.university)
 
 ##
 ## Goals of the project. 
