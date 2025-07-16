@@ -6,6 +6,7 @@
 *Task Tracking*: https://github.com/Lntck/Meditation-App/milestone/1?closed=1 
 - I created the milestone to track teammates activity/progress. All issues were closed succesfully. All deliveres were on time.
 
+##
 ### **Key Features of the App:**  
 
 #### **1. Meditation Practice**  
