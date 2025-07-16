@@ -30,9 +30,9 @@ Users can end a session at any time.
 **Mindfulness Companion App** is the perfect tool for mastering mindful breathing and enhancing meditation practice. 🧘‍♂️💨  
 
 ##
-## Goals. 
+## Goals of the project. 
 
-The **primary goal** of the **Mindfulness Companion App** is to **help users develop a healthy, mindful breathing habit** for meditation, stress relief, and mental clarity.  
+The **primary goal** of the project is to create the **Mindfulness Companion App** which will **help users develop a healthy, mindful breathing habit** for meditation, stress relief, and mental clarity.  
 
 ### **Key Objectives:**  
 1. **Teach Proper Breathing Techniques**  
