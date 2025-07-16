@@ -8,7 +8,7 @@ import 'package:window_manager/window_manager.dart';
 import 'router/router.dart';
 import 'utils/platform_checker.dart';
 
-const String title = 'Inner Breeze';
+const String title = 'Meditation App';
 final GlobalKey<AppState> appKey = GlobalKey();
 
 void run() {
