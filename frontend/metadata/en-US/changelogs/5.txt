@@ -1,0 +1,3 @@
+* Added wakelock feature to prevent the screen from turning off automatically.
+* Updated metadata for enhanced app description and indexing.
+

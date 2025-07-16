@@ -1,0 +1,2 @@
+* Optimize metadata for desktop release
+
