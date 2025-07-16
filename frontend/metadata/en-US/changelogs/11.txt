@@ -1,4 +1,0 @@
-* Added skip button
-* Fixed wakelock only for mobile and web
-* Fixed desktop bug with breathing circle
-

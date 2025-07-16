@@ -1,2 +1,0 @@
-* Added ability to edit progress results
-

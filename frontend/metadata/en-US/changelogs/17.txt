@@ -1,3 +1,0 @@
-* Improve audio player
-* Added gong at last breath
-

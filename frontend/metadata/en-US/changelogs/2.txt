@@ -1,3 +1,0 @@
-* Fixed UI padding adjusted for better user experience.
-* Added new icons for social media links.
-

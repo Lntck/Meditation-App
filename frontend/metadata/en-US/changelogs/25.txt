@@ -1,3 +1,0 @@
-* Fix no breath in after step 3
-* fix stop session unwanted screen switch
-

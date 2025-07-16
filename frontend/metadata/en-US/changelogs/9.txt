@@ -1,2 +1,0 @@
-* Added themeable icon for android
-

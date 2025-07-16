@@ -1,3 +1,0 @@
-* Added version number in the settings page
-* Check for updates in the settings page
-

@@ -1,2 +1,0 @@
-* Slight improvements in progress view
-
