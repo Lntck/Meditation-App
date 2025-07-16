@@ -28,3 +28,28 @@ Users can end a session at any time.
 ✅ Personalized settings for individual needs.  
 
 **Mindfulness Companion App** is the perfect tool for mastering mindful breathing and enhancing meditation practice. 🧘‍♂️💨  
+
+
+## Goals. 
+
+The **primary goal** of the **Mindfulness Companion App** is to **help users develop a healthy, mindful breathing habit** for meditation, stress relief, and mental clarity.  
+
+### **Key Objectives:**  
+1. **Teach Proper Breathing Techniques**  
+   - Guide users through structured breath-hold and recovery phases to improve focus and relaxation.  
+
+2. **Make Meditation Accessible**  
+   - Offer an **offline**, easy-to-use tool for practicing anywhere, anytime—no subscriptions or internet required.  
+
+3. **Encourage Consistency & Progress**  
+   - Track sessions with graphs to motivate users and show improvements over time.  
+
+4. **Personalize the Experience**  
+   - Let users adjust breathing cycles (inhale/hold/exhale) and language preferences for a tailored practice.  
+
+5. **Educate Users**  
+   - Provide tutorials to ensure correct technique and maximize benefits.  
+
+### **Ultimate Purpose:**  
+To **reduce stress, enhance mindfulness, and promote mental well-being** through scientifically supported breathing exercises—all in a simple, user-friendly app.  
+
