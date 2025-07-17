@@ -69,6 +69,7 @@ To **reduce stress, enhance mindfulness, and promote mental well-being** through
 
 ##
 ## *Architecture Diagram*:
+![Лого](gggrrr.png)
 
 
 
